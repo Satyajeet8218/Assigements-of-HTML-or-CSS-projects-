@@ -1,0 +1,192 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+
+    padding: 3% 6%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+      justify-content: center;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+nav ul li{
+    font-size: large;
+    margin: 0% 15%;
+    font-weight:bold;
+}
+
+.Home{
+
+    font-weight: bolder;
+}
+
+ form{
+    display: flex;
+    align-items: center;
+ }
+
+nav form button{
+    margin-right: 10px;  
+    background-color: white;
+    border: none;
+}
+
+nav form input{
+
+    text-align: center;
+    padding: 4% 0% ;
+    border-radius: 10px;
+    font-size: large;
+}
+ /* now this a main part */
+  
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.leftmain{
+    padding-top: 10%;
+    width: 100%;
+
+}
+
+    main section img {
+
+              position:absolute
+                                                       
+ }
+
+ .square{
+
+       padding-top: 20%;
+       padding-left: 13%;
+       width: 270px;
+ }
+   
+ .Virat{
+    width: 400px;
+ }
+
+                   /* This is for right section */
+  
+
+      /* global              */
+ .globe{
+    padding-top: 4%;
+    margin-left: 9%; 
+ } 
+
+     /* star */
+ .star{
+   padding-top: 7%;
+   margin-left: 45%;
+ }
+     /* Heading */
+
+ .heading{
+    padding-top: 30%;
+    font-size: 450%;
+    font-weight: bold; 
+}
+    /* Paragraph */
+ .para{
+     padding-top: 5%;
+     align-items: center;
+     margin: 0% 8%;
+     color: gray;  
+ }
+
+   
+
+ main section form{
+         
+    padding: 10% 30%;
+    align-items: center;
+         
+ }
+ 
+
+ main section form input{
+     
+     border-radius: 8px;
+     border-color: gray;
+     padding: 1% 0%;
+     font-weight: bold;
+     font-style: inherit;
+     margin-right: 5px;
+    
+ }
+    /* Second lower button */
+ main section form button{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding: 1% 1%;
+ }
+
+ .Contact{  
+       color: gray;
+       font-size: large;   
+ } 
+
+ .start{
+
+    margin-left: 2%;
+ }
+
+ section nav {
+    padding-top: 2%;
+    justify-content: center;
+    list-style: none;
+ }
+
+     /* Classes for lower logos   */
+
+  .Contact{
+    margin-left: 43%;
+  }
+
+ .one{
+
+    margin-right: 8%;
+ }
+
+.two{
+
+    margin-right:8%;
+}
+ .three{
+    margin-right: 8%;
+ }
+ .four{
+    margin-right: 8%;
+ }
+  
+
+
+ 
+
+
+    
+ 
+
+
+ 
+ 
+
+
+
+
